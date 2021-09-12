@@ -1,5 +1,9 @@
 子网站版本记录（这些版本全部由Dreamweaver编辑）
 
+== 1.0 Pre-Release 1 ==（制作时间：2021-9-12）
+跟主网站同步
+修复一部分内容
+
 == 1.0-beta2 ==（制作时间：2021-8-19）
 子网站搬迁至creatorcsie.github.io/MinecraftDungeons/
 暂时不能下载任何东西
